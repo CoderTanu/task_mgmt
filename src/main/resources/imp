@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m ""
+git remote add origin https://github.com/CoderTanu/task_mgmt.git
+git branch -M master
+git push -u origin master
+
+
+for conflict
+
+pull the request :- git pull origin master --allow-unrelated-histories
+
+than push 
